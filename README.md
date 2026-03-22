@@ -61,4 +61,4 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 Prasoon Ranjan
-Connect: rprasoon11@gmail.com
+(rprasoon11@gmail.com)
